@@ -1,10 +1,12 @@
 import React from 'react'
 import './header.css'
 
-const Footer = () => {
+const Header = () => {
   return (
-    <div>Footer</div>
+    <div className='gpt3__header section__padding' id='home'>
+      
+    </div>
   )
 }
 
-export default Footer
+export default Header
